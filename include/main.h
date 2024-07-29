@@ -1,9 +1,6 @@
-#ifndef INCLUDES
+#ifndef MAIN
+#define MAIN
 
-#define INCLUDES
-
-#include "servos.h"
-#include "libraries.h"
-#include "serial.h"
+#include <Arduino.h>
 
 #endif
