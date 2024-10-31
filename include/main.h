@@ -16,7 +16,13 @@
 #define CLAW_JOINT_PIN 5
 #define CLAW_PIN 3
 
+#define HEAD_X A0
+#define HEAD_Y A1
+
 #define STEP_SIZE 3
 #define SMOOTHING_DELAY 12
+
+#define MOTION_METADATA 1
+#define MOTION_DATA 2
 
 #endif
